@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"VersionName": "0.8.0.0",
+	"FriendlyName": "SRWorks",
+	"Description": "Supper Reality SDK",
+	"Category": "HTC",
+	"CreatedBy": "HTC Corporation",
+	"CreatedByURL": "https://www.htc.com/tw/",
+	"DocsURL": "https://developer.vive.com/resources/kb/pc-vr/",
+	"MarketplaceURL": "",
+	"SupportURL": "http://community.viveport.com/t5/Vive-SRWorks-SDK/gp-p/devgroup2",
+	"EngineVersion": "4.18.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SRWorks",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
